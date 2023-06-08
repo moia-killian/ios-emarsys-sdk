@@ -3,7 +3,7 @@
 //
 
 #import "NSURLRequest+EMSCore.h"
-#import "EMSRequestModel.h"
+#import <EMSRequestModel.h>
 
 @implementation NSURLRequest (EMSCore)
 

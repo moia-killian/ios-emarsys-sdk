@@ -3,7 +3,7 @@
 //
 
 #import "NSDictionary+EMSCore.h"
-#import "EMSStatusLog.h"
+#import <EMSStatusLog.h>
 #import "EMSMacros.h"
 #import "EMSDBTrigger.h"
 #import "MEInAppMessage.h"
